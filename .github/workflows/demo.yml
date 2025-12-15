@@ -8,3 +8,4 @@ jobs:
     steps:
       - name: Say hello
         run: echo "Hello world!"
+        run: echo "bye"
